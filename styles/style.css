@@ -1,0 +1,45 @@
+.navbar{
+	padding:0px;
+	margin:0 auto;
+}
+.wrapper{
+	width:1000px;
+	padding: 0px;
+	margin:0 auto;
+}
+.container-fluid{
+	width:1000px;
+	margin:0 auto;
+}
+.obrazek{
+	background-image: url("../images/fasolka.jpg");
+	height: 600px;
+}
+.row{
+	margin:0px;
+	padding-top: 41px;
+	padding-bottom: 41px;
+	background-color: gold;
+	height: 200px;
+	font-size: 20px;
+	text-align: center;
+}
+.col-md-6{
+	background-color: #be8c61;
+	height:600px;
+}
+.col-md-6 ol{
+	margin-top: 30px;
+}
+.bart{
+	text-align: center;
+	margin-top: 30px;
+	margin-bottom: 30px;
+}
+.bart img{
+	width:50%;
+	border-radius:50%;
+}
+.form-group {
+	text-align: center;
+}
